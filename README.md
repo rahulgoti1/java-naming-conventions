@@ -4,7 +4,7 @@ This is about how to choose name and handle error in java.
 - Handling null pointer exception
 - Naming conventions
 - Comments rule / google checkstyles
-- Always through exception from bottom to top level call hierarchy
+- Always throw exception from bottom to top level call hierarchy
 
 
 
