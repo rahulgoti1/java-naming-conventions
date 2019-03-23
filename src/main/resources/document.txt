@@ -88,4 +88,3 @@ Java Stream Intermediate and Terminal Operations
 	- map
 
 forEach, toArray, min, max, findFirst, anyMatch, allMatch
-
