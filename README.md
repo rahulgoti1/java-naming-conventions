@@ -20,7 +20,7 @@ NullPointerException is a situation in code where you try to access/ modify an o
 - Chained statements i.e. multiple method calls in a single statement
 
 - Apache commons lang
-  > StringUtils.isEmpty`
+  > StringUtils.isEmpty
 
 - Aiming for fail fast behavior is a good choice in most situations.
 
